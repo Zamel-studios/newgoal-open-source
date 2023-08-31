@@ -1,0 +1,4 @@
+#Thu Aug 10 12:08:22 EET 2023
+base.0=D\:\\applications\\newgoal1\\newgoal1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

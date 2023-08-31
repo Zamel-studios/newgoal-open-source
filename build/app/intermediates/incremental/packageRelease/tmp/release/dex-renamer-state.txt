@@ -1,0 +1,4 @@
+#Thu Aug 10 12:28:25 EET 2023
+base.0=D\:\\applications\\newgoal1\\newgoal1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
